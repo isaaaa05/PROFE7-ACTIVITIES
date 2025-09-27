@@ -1,0 +1,6 @@
+# analysis_options.yaml
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Removed 'type_literal_in_constant_pattern' since it's not recognized
